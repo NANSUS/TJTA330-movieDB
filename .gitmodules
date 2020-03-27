@@ -1,3 +1,6 @@
 [submodule "Reeler"]
 	path = Reeler
 	url = https://github.com/herbba/Reeler.git
+[submodule "lazygit"]
+	path = lazygit
+	url = https://github.com/jesseduffield/lazygit.git
